@@ -28,5 +28,3 @@ The primary objective of this project is to identify fraudulent financial transa
    - Trained a Logistic Regression model on the preprocessed data.
 6. **Evaluation:**
    - Evaluated the model using metrics like accuracy and precision to assess its performance.
-# Financial_Fraud_Detection
-# Financial_Fraud_Detection
